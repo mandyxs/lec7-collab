@@ -6,3 +6,4 @@ print ("mandy adding some stuff")
 
 print("adding some stuff")
 
+print ("favorite food is chocolate")
